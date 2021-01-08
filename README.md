@@ -1,5 +1,7 @@
 # markdown-heading-id
 
+[![Docs](https://docs.rs/markdown-heading-id/badge.svg)](https://docs.rs/markdown-heading-id)
+
 Filter for the [`Parser`](https://docs.rs/pulldown-cmark/0.8.0/pulldown_cmark/struct.Parser.html) of crate [`pulldown-cmark`](https://crates.io/crates/pulldown-cmark)
 
 This crate provides a filter of [`Parser`](https://docs.rs/pulldown-cmark/0.8.0/pulldown_cmark/struct.Parser.html) which converts headings with custom ID into HTML.
