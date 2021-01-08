@@ -3,6 +3,8 @@ name = "markdown-heading-id"
 version = "0.1.0"
 authors = ["Shotaro Tsuji <Shotaro.Tsuji@gmail.com>"]
 edition = "2018"
+license = "MIT"
+description = "Filter for `pulldown-cmark` which converts headings with custom ID"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
